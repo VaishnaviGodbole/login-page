@@ -17,7 +17,7 @@
     display: flex;
     align-items: center;
     flex-direction: column;
-    
+    border:0.5px solid grey;
    } 
 
    input{
